@@ -26,7 +26,7 @@ My City My Playground allows you to play with the city landscape. Buildings, ped
 <figure class="third">
 	<img src="http://www.annacarreras.com/wp-content/uploads/my_city_my_playground.png">
 </figure>
-<iframe src="http://player.vimeo.com/110556416?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="100%" height="58"></iframe><br/><br/>
+<iframe src="http://player.vimeo.com/110556416?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="560" height="315"></iframe><br/><br/>
 
 ###Promoting 15th VIDA Awards
 To promote the 15th edition of Vida Awards (Art and Artificial Life) at Madrid streets people could make technology live.
