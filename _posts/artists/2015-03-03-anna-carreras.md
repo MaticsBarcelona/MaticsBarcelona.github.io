@@ -16,7 +16,7 @@ Aquestes instal·lacions poden aplicar-se al sector de la museografia, l'educaci
 ## Selected recent works: 
 
 ###Beetles for babies
-Four musicians in motion (violin, clarinet, cello and percussions) and a dancer invite the youngest audiences, and their parents, to travel to a warm and brightful tribute concert to The Beatles. 
+Four musicians in motion (violin, clarinet, cello and percussions) and a dancer. Playing instruments, dancing and performing an interactive scenography they invite the youngest audiences, and their parents, to travel to a warm and brightful tribute concert to The Beatles. 
 <figure class="third">
 	<img src="http://www.annacarreras.com/wp-content/uploads/bitels_per_a_nadons_1.jpg">
 </figure>
