@@ -2,7 +2,7 @@
 
 ## How to add my artist profile?
 
-* First send your github username to the mailing list or google group or facebook and we will add to the organization in order to have the rights to edit the Matics web page
+* First send your github username to the mailing list or google group or facebook and we will add to the organization in order to have the rights to edit the Matics web page. You can also open an issue here, on github, to request the access.
 * Second follow the tutorial from https://docs.google.com/document/d/1VQPeZa8nHfqGQ8f3Dbq3SSFbVp3EzcxogMwB9gPcRb4/edit?usp=sharing or watch the screencasts below
 
 ### Add Artist
