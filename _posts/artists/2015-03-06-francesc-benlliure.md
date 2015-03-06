@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Francesc Benlliure"
-author: nuria_nia
+author: francesc
 excerpt: "Gestor Cultural"
 category: artists
 tags: [Comunicacion, Video]
