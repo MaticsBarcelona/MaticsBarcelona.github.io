@@ -40,6 +40,17 @@ comments: false
 * tages: you can write here any tag you want, separated by comma
 * comments: if set to false disables the comments for the post if set to true will enable the comments for the post. The comments implementation is using the disquss platform
 
+###Markdown
+
+Markdown is the sytax used to write the posts, it allows us to format the text, insert links, images, videos.
+
+Here are some usefull links in which this syntax is explained:
+
+https://help.github.com/articles/markdown-basics/
+https://help.github.com/articles/writing-on-github/
+https://help.github.com/articles/github-flavored-markdown/
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://guides.github.com/features/mastering-markdown/
 ## Todo List
 - [ ] Editar Valores, descripcion
 - [ ] Logo
