@@ -3,7 +3,7 @@ layout: post
 title: Anna Carreras
 author: anna_carreras
 excerpt: "Interactive Experiences"
-category: designer, technologist, developer
+category: artists
 tags: [Interactive Installations, Interactive Experiences]
 comments: false
 ---
