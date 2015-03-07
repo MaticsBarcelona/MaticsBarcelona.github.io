@@ -46,11 +46,13 @@ Markdown is the sytax used to write the posts, it allows us to format the text, 
 
 Here are some usefull links in which this syntax is explained:
 
-https://help.github.com/articles/markdown-basics/
-https://help.github.com/articles/writing-on-github/
-https://help.github.com/articles/github-flavored-markdown/
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-https://guides.github.com/features/mastering-markdown/
+- https://help.github.com/articles/markdown-basics/
+- https://help.github.com/articles/writing-on-github/
+- https://help.github.com/articles/github-flavored-markdown/
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- https://guides.github.com/features/mastering-markdown/
+
+
 ## Todo List
 - [ ] Editar Valores, descripcion
 - [ ] Logo
