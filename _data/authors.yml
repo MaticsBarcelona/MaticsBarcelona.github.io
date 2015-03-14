@@ -138,7 +138,6 @@ diego:
   twitter: 
   facebook: diego.suarez.927758
 
-
 citlali:
   name: Citlali Hernández
   email: citlali.hs@gmail.com
@@ -146,3 +145,10 @@ citlali:
   avatar: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/10600552_10154844152500704_2804190203396020743_n.jpg?oh=9bc4bbed8c1f72838b0f87c7e9bdb7b4&oe=55891787&__gda__=1434794210_97e7db1870bbe803ec02b377c16e5707
   twitter: _limonada_
   facebook: citlali.limonada
+
+nicolas:
+  name: Nicolás Villa
+  email: nicvil@gmail.com
+  bio: "Sound Artist and Composer"
+  avatar: https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/10346643_10152474582026085_8279243309129905081_n.jpg?oh=e789dc44134cccba30fc1d5210cad214&oe=55761D1A&__gda__=1437829294_6fcb3455d592351a9b5d5a160d3e0d06
+  facebook: nvilla1
