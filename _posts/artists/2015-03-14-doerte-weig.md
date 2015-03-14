@@ -12,9 +12,9 @@ Movement Researcher and Anthropologist, working on topics around 'body and movem
 
 ## Selected Works: 
 
-###Concept of Motility 
+###Moving Choices - The Concept of Motility 
 
-The motility concept refers to the capacity or potential to move
+This film shows the motility concept as  the capacity or potential to move
 
 <iframe src="https://player.vimeo.com/video/77382214" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
