@@ -16,7 +16,7 @@ Movement Researcher and Anthropologist, working on topics around 'body and movem
 
 The motility concept refers to the capacity or potential to move
 
-<iframe src="https://player.vimeo.com/video/77382214" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/77382214">Moving Choices</a> from <a href="https://vimeo.com/user21961414">Doerte Weig</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/77382214" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 ###Golden Trash
