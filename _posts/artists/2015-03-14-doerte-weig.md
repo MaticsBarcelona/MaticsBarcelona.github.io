@@ -35,7 +35,7 @@ Developing new forms of artist-audience interaction
 <figure class="third">
  <img src="http://seedance.org/www.SEEDance.org/HOME_files/Stadtrevue%20Anzeige%20Flow%20Dance%203.jpg">
 </figure>
-http://seedance.org/www.SEEDance.org/HOME.html
+[Website](http://seedance.org/www.SEEDance.org/HOME.html)
 
 
 ###Baka Movement and Motility
