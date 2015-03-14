@@ -25,7 +25,7 @@ This film shows the motility concept as  the capacity or potential to move
 Dance work on idols and human frailty
 
 <figure class="third">
-http://www.mdkollektiv.de/wp-content/uploads/2012/10/22-450x674.jpg
+	<img src="http://www.mdkollektiv.de/wp-content/uploads/2012/10/22-450x674.jpg">
 </figure>
 http://www.mdkollektiv.de/works/golden-trash/
 
@@ -33,7 +33,7 @@ http://www.mdkollektiv.de/works/golden-trash/
 Developing new forms of artist-audience interaction 
 
 <figure class="third">
-<img src="http://seedance.org/www.SEEDance.org/HOME_files/Stadtrevue%20Anzeige%20Flow%20Dance%203.jpg>
+ <img src="http://seedance.org/www.SEEDance.org/HOME_files/Stadtrevue%20Anzeige%20Flow%20Dance%203.jpg">
 </figure>
 http://seedance.org/www.SEEDance.org/HOME.html
 
@@ -42,7 +42,7 @@ http://seedance.org/www.SEEDance.org/HOME.html
 PhD Research Project with Baka hunter-gatherers
 
 <figure class="third">
-<img src=https://mobility1006.files.wordpress.com/2011/07/img_2145.jpg>
+ <img src="https://mobility1006.files.wordpress.com/2011/07/img_2145.jpg">
 </figure>
 https://mobility1006.wordpress.com/
 
