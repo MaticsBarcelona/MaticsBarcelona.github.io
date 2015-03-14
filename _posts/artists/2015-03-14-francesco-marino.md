@@ -33,7 +33,7 @@ heterogeneous team
 ###360FUN.net Interactive Design
 
 In 2010 I decided to renew my website and make it really minimalistic but also catchy. My main goal was to make the user feel the weight of the balls when they were falling and the curtain as well. 
-<figure class="third">
+<figure class="second">
 	<a href="https://www.behance.net/gallery/21548811/360FUNnet-2010-WEBSITE"><img src="https://m1.behance.net/rendition/modules/144888299/disp/02e788c18644d9f67dd1db744e05ba3b.gif"></a>
 </figure>
 
