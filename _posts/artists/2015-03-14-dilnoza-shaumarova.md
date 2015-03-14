@@ -2,7 +2,7 @@
 layout: post
 title: Dilnoza Shaumarova
 author: Dilnoza
-excerpt: "Creative Coder/Photographer"
+excerpt: "Education /Chemical Engineering"
 category: artists
 tags: [Education, Chemical]
 comments: false
