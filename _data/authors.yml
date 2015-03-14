@@ -87,7 +87,7 @@ francesco:
   facebook: 360fun.net
   twitter: 360fun_net
   
-  Dilnoza:
+Dilnoza:
   name: Dilnoza Shaumarova
   email: dilnoza.shaumarova@gmail.com
   bio: "Education"
@@ -95,16 +95,16 @@ francesco:
   facebook: 
   twitter: 
   
-  Pau:
+Pau:
   name: Pau Prat
   email: pauo.vix@gmail.com
   bio: "Dancer"
+  avatar: 
   
 xavi:
   name: Xavi Nuñez
   email: xnunez@xtec.cat
   bio: "Dancer, Performer and Educator"
-  avatar: 
+  avatar:
   facebook: https://www.facebook.com/xavi.n.morera
 
-  
