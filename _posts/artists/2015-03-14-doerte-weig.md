@@ -1,0 +1,49 @@
+---
+layout: post
+title: Doerte Weig
+author: doerte
+excerpt: "Movement Researcher, Anthropologist"
+category: artists
+tags: [Research, Investigation]
+comments: false
+---
+
+Movement Researcher and Anthropologist, working on topics around 'body and movement', from dance to virtual reality.
+
+## Selected Works: 
+
+###Concept of Motility 
+
+The motility concept refers to the capacity or potential to move
+<figure class="third">
+<iframe src="https://player.vimeo.com/video/77382214" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/77382214">Moving Choices</a> from <a href="https://vimeo.com/user21961414">Doerte Weig</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</figure>
+
+###Golden Trash
+Dance work on idols and human frailty
+
+<figure class="third">
+http://www.mdkollektiv.de/wp-content/uploads/2012/10/22-450x674.jpg
+</figure>
+http://www.mdkollektiv.de/works/golden-trash/
+
+###FlowDance Festival - SeeDance - TanzKontext
+Developing new forms of artist-audience interaction 
+
+<figure class="third">
+http://seedance.org/www.SEEDance.org/HOME_files/Stadtrevue%20Anzeige%20Flow%20Dance%203.jpg
+</figure>
+http://seedance.org/www.SEEDance.org/HOME.html
+
+
+###Baka Movement and Motility
+PhD Research Project with Baka hunter-gatherers
+
+<figure class="third">
+https://mobility1006.files.wordpress.com/2011/07/img_2145.jpg
+</figure>
+https://mobility1006.wordpress.com/
+
+PhD Thesis download
+http://kups.ub.uni-koeln.de/5238/
+
