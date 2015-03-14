@@ -73,7 +73,7 @@ francesc:
   name: Francesc B.
   email: 
   bio: "bio"
-  avatar:
+  avatar: bio-photo.jpg
   facebook:
   flickr:
   google:
@@ -91,7 +91,7 @@ Dilnoza:
   name: Dilnoza Shaumarova
   email: dilnoza.shaumarova@gmail.com
   bio: "Education"
-  avatar: 
+  avatar: bio-photo.jpg
   facebook: 
   twitter: 
   
@@ -99,12 +99,12 @@ Pau:
   name: Pau Prat
   email: pauo.vix@gmail.com
   bio: "Dancer"
-  avatar: 
+  avatar: bio-photo.jpg
   
 xavi:
   name: Xavi Nuñez
   email: xnunez@xtec.cat
   bio: "Dancer, Performer and Educator"
-  avatar:
+  avatar: bio-photo.jpg
   facebook: https://www.facebook.com/xavi.n.morera
 
