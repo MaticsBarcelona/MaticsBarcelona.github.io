@@ -27,7 +27,7 @@ Dance work on idols and human frailty
 <figure class="third">
 	<img src="http://www.mdkollektiv.de/wp-content/uploads/2012/10/22-450x674.jpg">
 </figure>
-http://www.mdkollektiv.de/works/golden-trash/
+[Project Website](http://www.mdkollektiv.de/works/golden-trash)
 
 ###FlowDance Festival - SeeDance - TanzKontext
 Developing new forms of artist-audience interaction 
@@ -35,7 +35,7 @@ Developing new forms of artist-audience interaction
 <figure class="third">
  <img src="http://seedance.org/www.SEEDance.org/HOME_files/Stadtrevue%20Anzeige%20Flow%20Dance%203.jpg">
 </figure>
-[Website](http://seedance.org/www.SEEDance.org/HOME.html)
+[Festival Website](http://seedance.org/www.SEEDance.org/HOME.html)
 
 
 ###Baka Movement and Motility
@@ -44,8 +44,8 @@ PhD Research Project with Baka hunter-gatherers
 <figure class="third">
  <img src="https://mobility1006.files.wordpress.com/2011/07/img_2145.jpg">
 </figure>
-https://mobility1006.wordpress.com/
+[Research Blog](https://mobility1006.wordpress.com)
 
-PhD Thesis download
-http://kups.ub.uni-koeln.de/5238/
+
+[PhD Thesis](http://kups.ub.uni-koeln.de/5238)
 
