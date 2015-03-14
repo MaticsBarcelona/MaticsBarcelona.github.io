@@ -8,7 +8,7 @@ tags: [Photography, Video, Programming, UI/UX Designer]
 comments: false
 ---
 
-Web Developer, UI/UX Designer, VideoMaker, Events Photographer
+###Web Developer, UI/UX Designer, VideoMaker, Events Photographer
 
 My name is FRANCESCO MARINO, I am Italian but I have often lived abroad and I
 speak english fluently and basic spanish. I love travelling and I can adapt easily to
