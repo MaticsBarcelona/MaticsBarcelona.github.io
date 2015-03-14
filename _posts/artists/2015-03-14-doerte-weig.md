@@ -44,8 +44,8 @@ PhD Research Project with Baka hunter-gatherers
 <figure class="third">
  <img src="https://mobility1006.files.wordpress.com/2011/07/img_2145.jpg">
 </figure>
-[Research Blog](https://mobility1006.wordpress.com)
 
+[Research Blog](https://mobility1006.wordpress.com)
 
 [PhD Thesis](http://kups.ub.uni-koeln.de/5238)
 
