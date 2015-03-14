@@ -8,13 +8,13 @@ tags: [Research, Investigation]
 comments: false
 ---
 
-Movement Researcher and Anthropologist, working on topics around 'body and movement', from dance to virtual reality.
+Movement Researcher and Anthropologist, working on topics around 'body and movement', ranging from physical and social mobility, to dance, to the extension of human movement into virtual reality.
 
 ## Selected Works: 
 
 ###Moving Choices - The Concept of Motility 
 
-This film shows the motility concept as  the capacity or potential to move
+This short film shows the motility concept as the capacity or potential to move. It was part of the 'Dance Your PhD' contest 2013.
 
 <iframe src="https://player.vimeo.com/video/77382214" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -22,7 +22,7 @@ This film shows the motility concept as  the capacity or potential to move
 
 
 ###Golden Trash
-Dance work on idols and human frailty
+Dance work on idols and human frailty, by the MichaelDouglas Kollektiv, Cologne (Germany). Part of the research for this project took place in the Anthropological Museum in Cologne (Germany). I worked with the collective during the research and the choreographic phase.   
 
 <figure class="third">
 	<img src="http://www.mdkollektiv.de/wp-content/uploads/2012/10/22-450x674.jpg">
@@ -39,7 +39,7 @@ Developing new forms of artist-audience interaction
 
 
 ###Baka Movement and Motility
-PhD Research Project with Baka hunter-gatherers
+PhD Research Project with Baka hunter-gatherers in Gabon (Central Africa), looking at the relation between bodily movement and social change. From this, I developed a new approach to social transformation and mobility based on physicality. 
 
 <figure class="third">
  <img src="https://mobility1006.files.wordpress.com/2011/07/img_2145.jpg">
