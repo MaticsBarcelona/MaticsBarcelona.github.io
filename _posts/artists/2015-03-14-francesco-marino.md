@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Francesco Marino
-author: ovidiu_cincheza
+author: francesco
 excerpt: "360°creative"
 category: artists
 tags: [Photography, Video, Programming, UI/UX Designer]
