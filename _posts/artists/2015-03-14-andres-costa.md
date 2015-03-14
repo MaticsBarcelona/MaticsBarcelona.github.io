@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Andres Costa
+title: Andrés Costa
 author: andres_costa
 excerpt: "Visual Artist"
 category: artists
